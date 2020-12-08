@@ -1,5 +1,3 @@
-This is Guru Sundaram's New File.
-
 ---
 layout: slide
 title: "Welcome to our second slide!"
